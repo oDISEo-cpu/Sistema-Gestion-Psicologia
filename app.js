@@ -1,4 +1,4 @@
-const URL_API = 'http://localhost:4000'; // Asegúrate de que tu backend corre en este puerto
+const URL_API = 'https://sistema-gestion-psicologia.onrender.com'; // Asegúrate de que tu backend corre en este puerto
 
 // - Variables Globales / Estado -
 let createdObjectURLs = new Set(); // Para evitar fugas de memoria
