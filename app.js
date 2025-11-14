@@ -1132,7 +1132,7 @@ async function renderAppointmentsForDay(dateStr) {
 }
 
 // ========== SISTEMA DE USUARIO MAESTRO Y PROGRAMADOR ==========
-const MAESTRO_KEY = "30525331"; // Clave de acceso para usuario maestro
+const MAESTRO_KEY = "12345678"; // Clave de acceso para usuario maestro
 const PROGRAMADOR_KEY = "admin123"; // Clave de acceso para programador (cambia esta clave)
 let isMaestroMode = false;
 let isProgramadorMode = false;
